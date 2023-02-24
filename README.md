@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a student from University of Salerno. 
+Here there are some projects I've made with my colleagues at University.
+
 <!--
 **maruotto/maruotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
